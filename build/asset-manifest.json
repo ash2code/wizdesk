@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.500a3bb6.css",
+    "main.js": "/static/js/main.39737cc7.js",
+    "static/media/auth-illustration.png": "/static/media/auth-illustration.2a3f73589ca17f010e3c.png",
+    "static/media/apiwiz-logo.png": "/static/media/apiwiz-logo.c83a39a1bfb8d2cb5435.png",
+    "index.html": "/index.html",
+    "main.500a3bb6.css.map": "/static/css/main.500a3bb6.css.map",
+    "main.39737cc7.js.map": "/static/js/main.39737cc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500a3bb6.css",
+    "static/js/main.39737cc7.js"
+  ]
+}
